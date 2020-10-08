@@ -1,0 +1,11 @@
+{
+  "name": "typescript-couse",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/daniel-silva-dxp/typescript-couse.git",
+  "author": "Daniel Silva <dani3l.dxp@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
